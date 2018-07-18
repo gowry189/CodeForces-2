@@ -1,3 +1,5 @@
+/*This program is to find the sum of the fibonacci series*/
+
 #include<bits/stdc++.h>
 using namespace std ;
 int main()
